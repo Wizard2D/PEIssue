@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PEFileTest/1.0.0": {
+        "dependencies": {
+          "PECO": "1.0.0"
+        },
+        "runtime": {
+          "PEFileTest.dll": {}
+        }
+      },
+      "PECO/1.0.0": {
+        "runtime": {
+          "PECO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PEFileTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PECO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

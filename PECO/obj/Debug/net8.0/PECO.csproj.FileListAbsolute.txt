@@ -1,0 +1,11 @@
+C:\Users\bitte\source\repos\basm\PECO\bin\Debug\net8.0\PECO.deps.json
+C:\Users\bitte\source\repos\basm\PECO\bin\Debug\net8.0\PECO.dll
+C:\Users\bitte\source\repos\basm\PECO\bin\Debug\net8.0\PECO.pdb
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\PECO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\PECO.AssemblyInfoInputs.cache
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\PECO.AssemblyInfo.cs
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\PECO.csproj.CoreCompileInputs.cache
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\PECO.dll
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\refint\PECO.dll
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\PECO.pdb
+C:\Users\bitte\source\repos\basm\PECO\obj\Debug\net8.0\ref\PECO.dll
